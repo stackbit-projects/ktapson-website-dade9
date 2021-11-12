@@ -1,0 +1,16 @@
+<!-- Header -->
+<header id="header" class="header container">
+    <a href="{{ "/" | relURL }}" class="logo">{{ .Site.Data.config.header.title }}</a>
+    {{ if and .Site.Data.config.header.nav_links .Site.Data.config.header.has_nav }}
+    <nav>
+        {{ range $item := $.Site.Data.config.header.nav_links }}
+            {{ $pageUrl := trim $.URL "/" }}
+            {{ $itemUrl := trim $item.url "/" }}
+            <a href="{{ if strings.HasPrefix $item.url "#" }}{{ $item.url }}{{ else }}{{ $item.url | relURL }}{{ end }}"
+                {{ if $item.new_window }} target="_blank"{{ end }}
+                {{ if or $item.new_window $item.no_follow }} rel="{{ if $item.new_window }}noopener {{ end }}{{ if $item.no_follow }}nofollow{{ end }}"{{ end }}
+                class="nav-link{{ if eq $pageUrl $itemUrl }} active{{ end }}">{{ $item.label }}</a>
+        {{ end }}
+    </nav>
+    {{ end }}
+</header>

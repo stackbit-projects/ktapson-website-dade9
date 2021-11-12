@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+    <head>    
+
+        <title>{{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Data.config.title }}{{ end }}</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <meta name="google" content="notranslate" />
+        <meta name="description" content="{{ .Params.seo.description | default "" }}" />
+        {{ if .Params.seo.robots }}
+        <meta name="robots" content="{{ delimit $.Params.seo.robots "," }}">
+        {{ end }}
+        {{ range $meta := .Params.seo.extra }}
+          {{ $key_name := $meta.keyName | default "name" }}
+          {{ if $meta.relativeUrl }}
+            {{ if $.Site.Data.config.domain }}
+              {{ $domain := trim $.Site.Data.config.domain "/" }}
+              {{ $rel_url := $meta.value | relURL }}
+              {{ $full_url := print $domain $rel_url }}
+              <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $full_url }}">
+            {{ end }}
+          {{ else }}
+            <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $meta.value }}">
+          {{ end }}
+        {{ end }}
+        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
+        {{ if .Site.Data.config.favicon }}
+        <link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}">
+        {{ end }}
+        
+    </head>
+    <body>
+        
+        <div class="wrapper">
+            {{ partial "header.html" . }}
+            <div class="container">
+                {{ block "content" . }}{{ end }}
+            </div>
+            {{ partial "footer.html" . }}
+        </div>
+        <script src="{{ "js/init.js" | relURL }}"></script>
+    </body> 
+</html>

@@ -1,0 +1,20 @@
+{{ define "content" }}
+<!-- Main -->
+<section class="post">
+    {{ if .Params.content_img_path }}
+    <img class="header-image" src="{{ $.Params.content_img_path | relURL }}" alt="{{ $.Params.content_img_alt }}"/>
+    {{ end }}
+    <header class="hero">
+        <div class="copy">
+            <h1>{{ .Title }}</h1>
+            {{ if .Params.subtitle }}
+            <h3>{{ $.Params.subtitle | safeHTML }}</h3>
+            {{ end }}
+            <h3 class="publish-date">{{ .Date | dateFormat "Monday, January 2, 2006" }}</h3>
+        </div>
+    </header>
+    <div class="content">
+        {{ .Content | safeHTML }}
+    </div>
+</section>
+{{ end }}

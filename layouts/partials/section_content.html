@@ -1,0 +1,10 @@
+<!-- Section -->
+{{ $section := .section }}
+<section id="{{ $section.section_id }}" class="content">
+    {{ if $section.image }}<img class="inline-image" src="{{ $section.image | relURL }}" alt="{{ $section.image_alt }}" />{{ end }}
+    {{ if $section.content }}
+    <div class="copy">
+        {{ partial "markdownify-block" $section.content }}
+    </div>
+    {{ end }}
+</section>

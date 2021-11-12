@@ -1,0 +1,28 @@
+<!-- Footer -->
+<footer class="footer container">
+    {{ if .Site.Data.config.footer.content }}
+    <div class="copyright">{{ $.Site.Data.config.footer.content | safeHTML }}</div>
+    {{ end }}
+    {{ if .Site.Data.config.footer.links }}
+    <nav>
+        {{ range $link := $.Site.Data.config.footer.links }}
+        <a href="{{ $link.url | relURL }}"
+            {{ if $link.new_window }} target="_blank"{{ end }}
+            {{ if or $link.new_window $link.no_follow }} rel="{{ if $link.new_window }}noopener {{ end }}{{ if $link.no_follow }}nofollow{{ end }}"{{ end }}
+            class="subtle-link">{{ $link.label }}</a>
+        {{ end }}
+    </nav>
+    {{ end }}
+    {{ if .Site.Data.config.footer.has_social }}
+    <div class="social-links">
+        {{ range $link := $.Site.Data.config.footer.social_links }}
+        {{ if $link }}
+        <a href="{{ $link.url | relURL }}"
+            {{ if $link.new_window }} target="_blank"{{ end }}
+            {{ if or $link.new_window $link.no_follow }} rel="{{ if $link.new_window }}noopener {{ end }}{{ if $link.no_follow }}nofollow{{ end }}"{{ end }}
+            class="subtle-link">{{ $link.label }}</a>
+        {{ end }}
+        {{ end }}
+    </div>
+    {{ end }}
+</footer>

@@ -1,0 +1,16 @@
+{{ define "content" }}
+<!-- Main -->
+<section class="page">
+    <header class="hero">
+        <div class="copy">
+            <h1>{{ .Title }}</h1>
+            {{ if .Params.subtitle }}
+            <h3>{{ $.Params.subtitle | safeHTML }}</h3>
+            {{ end }}
+        </div>
+    </header>
+    <div class="content">
+        {{ .Content }}
+    </div>
+</section>
+{{ end }}
