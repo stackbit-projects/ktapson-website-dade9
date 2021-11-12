@@ -19,6 +19,12 @@
             {
                 "label": "Affiliations",
                 "url": "/ipsum/"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "new_window": false,
+                "no_follow": false
             }
         ]
     },
