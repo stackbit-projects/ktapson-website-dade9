@@ -61,7 +61,7 @@ sections:
       Anthropocene is the way it projects the accumulation of human activity
       into the environment. Performing modes of environmental synthesis across
       temporalities that places artistic in charge of scientific modes of
-      observation. How these relationships, in science, represent. 
+      observation. How these relationships, in science, represent. Argues that 
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
