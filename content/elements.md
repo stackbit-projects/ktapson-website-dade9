@@ -25,7 +25,15 @@ layout: page
 
 ###
 
-### *Minecraft Rock, Paper, Scissors*
+### **
+
+**
+
+**
+
+**
+
+*Minecraft Rock, Paper, Scissors*
 
 ######
 
