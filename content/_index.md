@@ -11,7 +11,7 @@ sections:
     section_id: intro
     type: section_content
     content: >
-      #### My research focuses on postwar and contemporary poetry and science
+      ##### My research focuses on postwar and contemporary poetry and science
       with an emphasis on experimental practices as they transform across
       discourses. My interests traverse ecopoetics, laboratory science, feminist
       technoscience, histories of scientific instrumentation, and avant-garde
