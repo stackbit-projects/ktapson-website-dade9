@@ -1,6 +1,5 @@
 ---
 title: Affiliations
-subtitle: lorem-ipsum
 seo:
   title: ''
   description: ''
