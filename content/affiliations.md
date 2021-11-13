@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Affiliations
 subtitle: lorem-ipsum
 seo:
   title: ''
