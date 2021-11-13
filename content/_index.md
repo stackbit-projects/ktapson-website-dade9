@@ -33,7 +33,7 @@ sections:
     type: section_content
     image_alt: Geometric pattern
     content: >
-      My first book project, *Enduring Experiments* investigates intersecting
+      My first book project, *Enduring Experiments,* investigates intersecting
       epistemological trajectories across the poetry of Clark Coolidge and
       Bernadette Mayer. Contesting the terms of their reception within the
       avant-gardes with which they are most often associated, I take both poets
@@ -51,9 +51,17 @@ sections:
       1979-82.*
 
 
-
-
-      **
+      My next book project, tentatively titled *Serpentine Poetics for Everyday
+      Shapes*, follows a series of "unnatural" creature relationships through
+      webs of science and art, folding the book onto its body -  ants, beetles,
+      flies, snakes - folding environments onto their bodies - even in simple
+      situations complicate the relationships between creature relationships and
+      and environments that ostensibly surround them - how laboratory models -
+      how humans function as model organisms - One key aspect of the
+      Anthropocene is the way it projects the accumulation of human activity
+      into the environment. Performing modes of environmental synthesis across
+      temporalities that places artistic in charge of scientific modes of
+      observation. How these relationships, in science, represent. 
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
