@@ -19,12 +19,6 @@
                 "no_follow": false
             },
             {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "Teaching",
                 "url": "/elements/"
             },
