@@ -21,13 +21,17 @@ seo:
       value: This is the UI kit page
 layout: page
 ---
+## *Another Autecology of the Copperhead (2020-)*
 
-# This is an H1
-## This is an H2
-### This is an H3
-#### This is an H4
-##### This is an H5
-###### This is an H6
+####
+
+
+
+
+
+## *Minecraft Rock, Paper, Scissors*
+
+######
 
 Donec malesuada, augue eu blandit porta, metus metus auctor leo, non dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an inline link](https://www.google.com) placerat non, eleifend tempor dolor. Quisque sed nisl elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec, condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia aliquam velit. Mauris ut purus in nisl suscipit feugiat.
 
@@ -37,19 +41,19 @@ Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id. Vestibulum si
 
 ### Unordered List
 
-- Here are some bullet points
-- Here are some bullet points
-- This is a really long bullet point that wraps to multiple lines. Nunc tempus suscipit. Donec quis magna id lacus eleifend volutpat. Suspendisse ac mattis velit, vel sagittis metus. Etiam non massa eu lectus maximus elementum. Etiam id aliquet quam. Vestibulum id lacinia ex, in rutrum metus. Donec varius auctor ligula.
-- Here are some bullet points
-- Here are some bullet points
+*   Here are some bullet points
+*   Here are some bullet points
+*   This is a really long bullet point that wraps to multiple lines. Nunc tempus suscipit. Donec quis magna id lacus eleifend volutpat. Suspendisse ac mattis velit, vel sagittis metus. Etiam non massa eu lectus maximus elementum. Etiam id aliquet quam. Vestibulum id lacinia ex, in rutrum metus. Donec varius auctor ligula.
+*   Here are some bullet points
+*   Here are some bullet points
 
 ### Ordered List
 
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
+1.  Donec non tortor in arcu mollis feugiat
+2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+3.  Donec id eros eget quam aliquam gravida
+4.  Vivamus convallis urna id felis
+5.  Nulla porta tempus sapien
 
 ### Quoting
 
@@ -63,11 +67,9 @@ Sed sit amet enim placerat, faucibus nisl et, porta ipsum. Integer efficitur nul
 
 Blocks of code are either fenced by lines with `three back-ticks`, or are indented `with four spaces`.
 
-```
-<!-- Some example CSS code -->
-h1 {
-    font-size: 2.5rem;
-}
-```
+    <!-- Some example CSS code -->
+    h1 {
+        font-size: 2.5rem;
+    }
 
 Inline `code` has `back-ticks around` it.
