@@ -11,12 +11,6 @@ sections:
     section_id: intro
     type: section_content
     content: >
-      New York University
-
-
-      Ph.D. English 2017
-
-
       My research focuses on postwar and contemporary poetry and science with an
       emphasis on experimental practice across discourses. My interests traverse
       ecopoetics, laboratory science, feminist technoscience, histories of
