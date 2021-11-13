@@ -6,7 +6,6 @@ sections:
     title: Title
     subtitle: |
       ###
-    image: images/avatar.png
     image_alt: Author avatar
   - title: Text
     section_id: intro
