@@ -21,7 +21,7 @@ seo:
       value: This is a generic page
 layout: page
 ---
-#### Minecraft Block Party
+##### Minecraft Block Party
 
 ![Block Image](/images/art.svg)
 
