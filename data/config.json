@@ -9,10 +9,6 @@
                 "url": "/"
             },
             {
-                "label": "Books",
-                "url": "/generic/"
-            },
-            {
                 "label": "Studies",
                 "url": "/elements/"
             },
