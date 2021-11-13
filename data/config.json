@@ -25,7 +25,7 @@
             {
                 "label": "Affiliations",
                 "url": "#",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ]
