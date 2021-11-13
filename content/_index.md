@@ -11,7 +11,7 @@ sections:
     section_id: intro
     type: section_content
     content: >
-      New York University 
+      New York University
 
 
       Ph.D. English 2017
