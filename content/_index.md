@@ -38,7 +38,7 @@ sections:
       Bernadette Mayer. Contesting the terms of their reception within the
       avant-gardes with which they are most often associated, I take both poets
       seriously as poet-researchers whose science-inflected writing practices
-      and complex ways of interacting with their own laboriously-generated
+      and complex ways of interacting with their own laboriously generated
       poetic milieus challenge the limits of existing models for describing
       postwar poetry’s engagement with experimental science. Throughout the
       book, I bring the discourse on experiment in science studies into contact
@@ -48,7 +48,12 @@ sections:
       correspondence, which extends across three decades. A key portion of the
       correspondence is forthcoming (Fall 2022) from University of New Mexico
       Press as *The Correspondence of Bernadette Mayer and Clark Coolidge,
-      1979-82*.
+      1979-82.*
+
+
+
+
+      **
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
