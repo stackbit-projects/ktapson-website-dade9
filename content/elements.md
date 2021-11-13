@@ -1,5 +1,5 @@
 ---
-title: Affiliations
+title: studies
 subtitle: Vanilla styleguide.
 seo:
   title: UI Kit
