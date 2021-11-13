@@ -11,8 +11,12 @@ Kristen Tapson is a Scholar in Residence in the Department of Art, Art History, 
 
 Current affiliations include:
 
-*   Speculative Sensation Lab (S-1) at Duke - 
+*   [Speculative Sensation Lab (S-1)](s-1lab.org)
 
-*   Nothing Happening Here - 
+<!---->
 
-*   NC Herpetological Society
+*   [nothing happening here](https://nothinghappeninghere.work/)
+
+<!---->
+
+*   [NC Herpetological Society](https://ncherps.org/)
