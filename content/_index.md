@@ -33,25 +33,23 @@ sections:
     type: section_content
     image: images/art.svg
     image_alt: Geometric pattern
-    content: >-
-      Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
-      amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
-      aliquet placerat commodo. 
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. 
-
-      Id massa aliquet arcu accumsan lorem amet accumsan.
-
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
+    content: >
+      My first book project, *Enduring Experiments* investigates intersecting
+      epistemological trajectories across the poetry of Clark Coolidge and
+      Bernadette Mayer. Contesting the terms of their reception within the
+      avant-gardes with which they are most often associated, I take both poets
+      seriously as poet-researchers whose science-inflected writing practices
+      and complex ways of interacting with their own laboriously-generated
+      poetic milieus challenge the limits of existing models for describing
+      postwar poetry’s engagement with experimental science. Throughout the
+      book, I bring the discourse on experiment in science studies into contact
+      with poetics, showing how experimental poetry can be a surprising source
+      for alternative conceptual models of scientific subjectivity. Overlapping
+      my work on this book, I co-edited the expansive Coolidge-Mayer
+      correspondence, which extends across three decades. A key portion of the
+      correspondence is forthcoming (Fall 2022) from University of New Mexico
+      Press as *The Correspondence of Bernadette Mayer and Clark Coolidge,
+      1979-82*.
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
