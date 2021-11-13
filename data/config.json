@@ -23,6 +23,12 @@
                 "url": "/elements/"
             },
             {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Affiliations",
                 "url": "#",
                 "new_window": false,
