@@ -1,5 +1,5 @@
 ---
-title: studies
+title: Studies
 subtitle: Vanilla styleguide.
 seo:
   title: UI Kit
