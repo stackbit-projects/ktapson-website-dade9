@@ -10,7 +10,34 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: "# My research focuses on postwar and contemporary poetry and science with an emphasis on experimental practices—and their transformations—across discourses. My interests traverse ecopoetics, laboratory science, feminist technoscience, histories of scientific instrumentation, and avant-garde art and writing associated with empirical research practices, particularly as they relate to the physical sciences. These interests are directed toward examining how durational research projects can support exchanges between practices of art and science across scales. In my related writing projects and public humanities work, I aim to scaffold critical-collaborative models of collectivity and explore community-oriented research from within its practice.\n\n\\*\_\\*\n\n### This is an H3. Use it for subheads and subsections.\n\nDonec malesuada, augue eu blandit porta, metus metus auctor leo, non dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec, condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia aliquam velit. Mauris ut purus in nisl suscipit feugiat.\nPellentesque tempor aliquet dolor, ac consectetur lorem ornare id. Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu\n"
+    content: >
+      ##### My research focuses on postwar and contemporary poetry and science
+      with an emphasis on experimental practices—and their
+      transformations—across discourses. My interests traverse ecopoetics,
+      laboratory science, feminist technoscience, histories of scientific
+      instrumentation, and avant-garde art and writing associated with empirical
+      research practices, particularly as they relate to the physical sciences.
+      These interests are directed toward examining how durational research
+      projects can support exchanges between practices of art and science across
+      scales. In my related writing projects and public humanities work, I aim
+      to scaffold critical-collaborative models of collectivity and explore
+      community-oriented research from within its practice.
+
+
+      ### This is an H3. Use it for subheads and subsections.
+
+
+      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
+      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
+      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
+      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
+      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
+      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
+      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
+
+      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
+      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
+      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
   - title: Recent Posts
     section_id: posts
     type: section_posts
