@@ -21,15 +21,11 @@ seo:
       value: This is the UI kit page
 layout: page
 ---
-## *Another Autecology of the Copperhead (2020-)*
+### *Another Autecology of the Copperhead (2020-)*
 
-####
+###
 
-
-
-
-
-## *Minecraft Rock, Paper, Scissors*
+### *Minecraft Rock, Paper, Scissors*
 
 ######
 
