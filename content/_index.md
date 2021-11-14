@@ -30,20 +30,20 @@ sections:
       My first book project, *Enduring Experiments,* investigates intersecting
       epistemological trajectories across the poetry of Clark Coolidge and
       Bernadette Mayer, two poets whose substantial impact on twentieth and
-      twenty-first-century poetry. Contesting the terms of their reception
-      within the avant-gardes with which they are most often associated, I take
-      both poets seriously as poet-researchers whose science-inflected writing
-      practices and complex ways of interacting with their own laboriously
-      generated poetic milieus challenge the limits of existing models for
-      describing postwar poetry’s engagement with experimental science.
-      Throughout the book, I bring the discourse on experiment in science
-      studies into contact with poetics, showing how experimental poetry can be
-      a surprising source for alternative conceptual models of scientific
-      subjectivity. Overlapping my work on this book, I co-edited the expansive
-      Coolidge-Mayer correspondence, which extends across three decades. A key
-      portion of the correspondence is forthcoming (Fall 2022) from University
-      of New Mexico Press as *The Correspondence of Bernadette Mayer and Clark
-      Coolidge, 1979-82.*
+      twenty-first-century poetry continues to have resounding impact.
+      Contesting the terms of their reception within the avant-gardes with which
+      they are most often associated, I take both poets seriously as
+      poet-researchers whose science-inflected writing practices and complex
+      ways of interacting with their own laboriously generated poetic milieus
+      challenge the limits of existing models for describing postwar poetry’s
+      engagement with experimental science. Throughout the book, I bring the
+      discourse on experiment in science studies into contact with poetics,
+      showing how experimental poetry can be a surprising source for alternative
+      conceptual models of scientific subjectivity. Overlapping my work on this
+      book, I co-edited the expansive Coolidge-Mayer correspondence, which
+      extends across three decades. A key portion of the correspondence is
+      forthcoming (Fall 2022) from University of New Mexico Press as *The
+      Correspondence of Bernadette Mayer and Clark Coolidge, 1979-82.*
 
 
       My next book project, tentatively titled *Serpentine Poetics for Everyday
