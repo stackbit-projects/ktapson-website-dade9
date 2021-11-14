@@ -17,10 +17,11 @@ sections:
       histories of scientific instrumentation, and avant-garde art and writing
       associated with empirical research practices, particularly as they relate
       to the physical sciences. These interests are directed toward examining
-      how durational projects can support exchanges between practices of art and
-      science across scales. In my related writing studies and public humanities
-      work, I aim to scaffold critical-collaborative models of collectivity and
-      explore community-oriented research from within its practice.
+      how durational research collaborations can support exchanges between
+      practices of art and science across scales. In my related writing studies
+      and public humanities work, I aim to scaffold critical-collaborative
+      models of collectivity and explore community-oriented research from within
+      its practice.
   - title: A Cat
     section_id: cat
     type: section_content
