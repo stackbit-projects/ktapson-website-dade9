@@ -29,8 +29,8 @@ sections:
     content: >
       My first book project, *Enduring Experiments,* investigates intersecting
       epistemological trajectories across the poetry of Clark Coolidge and
-      Bernadette Mayer, two poets whose impact on twentieth and
-      twenty-first-century poetry continues to be generative and influential.
+      Bernadette Mayer, two poets whose influence on twentieth and
+      twenty-first-century poetry continues to be extremely generative.
       Contesting the terms of their reception within the avant-gardes with which
       they are most often associated, I take both poets seriously as
       poet-researchers whose science-inflected writing practices and complex
@@ -51,21 +51,21 @@ sections:
       anthropocentric intervention in various ways: ants, beetles, flies,
       snakes. through webs of science and art, folding the book onto its body -
       ants, beetles, flies, snakes - folding environments onto their bodies -
-      how different concepts of the laboratory and the model organism get
-      defined in the practices of -- the animal, elemental, to make materials
-      beyond the natural - while genetic manipulation represents one trajectory
-      of laboratory practice \__\_, then \__\__ represents a   even in simple
-      situations complicate the relationships between creature relationships and
-      and environments that ostensibly surround them - how certain features of
-      the laboratory models get mobilized in public space - ecologies of
-      chemical effect - critiques of the periodic table of elements, its order
-      and organization - how humans function as model organisms - One key aspect
-      of the Anthropocene is the way it projects the accumulation of human
-      activity into the environment. Performing modes of environmental synthesis
-      across temporalities that places artistic in charge of scientific modes of
-      observation. How these relationships, in science, represent. Argues that
-      Thinking laboratory science otherwise within the everyday. -- unreactive
-      in the body --
+      synaesthesia - how different concepts of the laboratory and the model
+      organism get defined in the practices of -- the animal, elemental, to make
+      materials beyond the natural - while genetic manipulation represents one
+      trajectory of laboratory practice \_*\_, then \_*\__ represents a   even
+      in simple situations complicate the relationships between creature
+      relationships and and environments that ostensibly surround them - how
+      certain features of the laboratory models get mobilized in public space -
+      ecologies of chemical effect - critiques of the periodic table of
+      elements, its order and organization - how humans function as model
+      organisms - One key aspect of the Anthropocene is the way it projects the
+      accumulation of human activity into the environment. Performing modes of
+      environmental synthesis across temporalities that places artistic in
+      charge of scientific modes of observation. How these relationships, in
+      science, represent. Argues that Thinking laboratory science otherwise
+      within the everyday. -- unreactive in the body --
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
