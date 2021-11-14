@@ -10,7 +10,7 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >
+    content: >+
       My research focuses on postwar and contemporary poetry and science with an
       emphasis on experimental practice across discourses. Currently, my
       interests and studies traverse ecopoetics, laboratory science, feminist
@@ -23,8 +23,6 @@ sections:
       critical-collaborative models of collectivity and explore
       community-oriented research from within its practice.
 
-
-      \*\*\*
   - title: A Cat
     section_id: cat
     type: section_content
