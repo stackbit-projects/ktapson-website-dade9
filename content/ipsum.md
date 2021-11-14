@@ -1,6 +1,6 @@
 ---
 title: Teaching
-subtitle: Aliquam lobortis faucibus blandit
+subtitle: 'Experiments in Science, Art, and Writing'
 seo:
   title: Ipsum dolor sit amet
   description: Aliquam lobortis faucibus blandit
