@@ -23,7 +23,7 @@ sections:
       critical-collaborative models of collectivity and explore
       community-oriented research from within its practice.
   - title: Recent Posts
-    section_id: posts
+    section_id: post
     type: section_posts
     has_more_link: true
     more_link_text: Read more
