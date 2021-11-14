@@ -38,11 +38,6 @@
                 "label": "GitHub",
                 "url": "https://github.com/",
                 "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "new_window": true
             }
         ]
     },
