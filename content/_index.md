@@ -46,11 +46,13 @@ sections:
       Correspondence of Bernadette Mayer and Clark Coolidge, 1979-82.*
 
 
-      My next book project, tentatively titled *Poetic Chemistry for Everyday
-      Shapes*, follows a series of creature relationships that involve
+      My next book project, tentatively titled *An Elemental Poetics for
+      Everyday Shapes*, follows a series of creature relationships that involve
       anthropocentric intervention in various ways: ants, beetles, flies,
       snakes. through webs of science and art, folding the book onto its body -
-      ants, beetles, flies, snakes - folding environments onto their bodies -
+      ants, beetles, flies, snakes - borrowing practices - poets working with
+      language against the book as a unit of inquiry develop a mode of studying
+      the world  that science can't - folding environments onto their bodies -
       synaesthesia - how different concepts of the laboratory and the model
       organism get defined in the practices of -- the animal, elemental, to make
       materials beyond the natural - while genetic manipulation represents one
