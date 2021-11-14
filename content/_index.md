@@ -34,33 +34,36 @@ sections:
     content: >
       My first book project, *Enduring Experiments,* investigates intersecting
       epistemological trajectories across the poetry of Clark Coolidge and
-      Bernadette Mayer. Contesting the terms of their reception within the
-      avant-gardes with which they are most often associated, I take both poets
-      seriously as poet-researchers whose science-inflected writing practices
-      and complex ways of interacting with their own laboriously generated
-      poetic milieus challenge the limits of existing models for describing
-      postwar poetry’s engagement with experimental science. Throughout the
-      book, I bring the discourse on experiment in science studies into contact
-      with poetics, showing how experimental poetry can be a surprising source
-      for alternative conceptual models of scientific subjectivity. Overlapping
-      my work on this book, I co-edited the expansive Coolidge-Mayer
-      correspondence, which extends across three decades. A key portion of the
-      correspondence is forthcoming (Fall 2022) from University of New Mexico
-      Press as *The Correspondence of Bernadette Mayer and Clark Coolidge,
-      1979-82.*
+      Bernadette Mayer, two poets whose substantial impact on twentieth and
+      twenty-first-century poetry. Contesting the terms of their reception
+      within the avant-gardes with which they are most often associated, I take
+      both poets seriously as poet-researchers whose science-inflected writing
+      practices and complex ways of interacting with their own laboriously
+      generated poetic milieus challenge the limits of existing models for
+      describing postwar poetry’s engagement with experimental science.
+      Throughout the book, I bring the discourse on experiment in science
+      studies into contact with poetics, showing how experimental poetry can be
+      a surprising source for alternative conceptual models of scientific
+      subjectivity. Overlapping my work on this book, I co-edited the expansive
+      Coolidge-Mayer correspondence, which extends across three decades. A key
+      portion of the correspondence is forthcoming (Fall 2022) from University
+      of New Mexico Press as *The Correspondence of Bernadette Mayer and Clark
+      Coolidge, 1979-82.*
 
 
       My next book project, tentatively titled *Serpentine Poetics for Everyday
-      Shapes*, follows a series of "unnatural" creature relationships through
-      webs of science and art, folding the book onto its body -  ants, beetles,
-      flies, snakes - folding environments onto their bodies - even in simple
-      situations complicate the relationships between creature relationships and
-      and environments that ostensibly surround them - how laboratory models -
+      Shapes*, follows a series of creature relationships that involve
+      anthropocentric intervention in various ways: ants, beetles, flies,
+      snakes. through webs of science and art, folding the book onto its body - 
+      ants, beetles, flies, snakes - folding environments onto their bodies -
+      even in simple situations complicate the relationships between creature
+      relationships and and environments that ostensibly surround them - how
+      certain features of the laboratory models get mobilized in public space -
       how humans function as model organisms - One key aspect of the
       Anthropocene is the way it projects the accumulation of human activity
       into the environment. Performing modes of environmental synthesis across
       temporalities that places artistic in charge of scientific modes of
-      observation. How these relationships, in science, represent. Argues that 
+      observation. How these relationships, in science, represent. Argues that
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
