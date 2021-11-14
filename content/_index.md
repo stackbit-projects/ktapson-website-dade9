@@ -52,15 +52,17 @@ sections:
       anthropocentric intervention in various ways: ants, beetles, flies,
       snakes. through webs of science and art, folding the book onto its body - 
       ants, beetles, flies, snakes - folding environments onto their bodies -
-      even in simple situations complicate the relationships between creature
-      relationships and and environments that ostensibly surround them - how
-      certain features of the laboratory models get mobilized in public space -
-      how humans function as model organisms - One key aspect of the
-      Anthropocene is the way it projects the accumulation of human activity
-      into the environment. Performing modes of environmental synthesis across
-      temporalities that places artistic in charge of scientific modes of
-      observation. How these relationships, in science, represent. Argues that
-      Thinking laboratory science otherwise within the everyday.
+      how different concepts of the laboratory and the model organism get
+      defined in the practices of --  even in simple situations complicate the
+      relationships between creature relationships and and environments that
+      ostensibly surround them - how certain features of the laboratory models
+      get mobilized in public space - how humans function as model organisms -
+      One key aspect of the Anthropocene is the way it projects the accumulation
+      of human activity into the environment. Performing modes of environmental
+      synthesis across temporalities that places artistic in charge of
+      scientific modes of observation. How these relationships, in science,
+      represent. Argues that Thinking laboratory science otherwise within the
+      everyday.
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
