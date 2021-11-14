@@ -30,7 +30,7 @@ sections:
       My first book project, *Enduring Experiments,* investigates intersecting
       epistemological trajectories across the poetry of Clark Coolidge and
       Bernadette Mayer, two poets whose distinctive influence on twentieth and
-      twenty-first-century writing practices has been, and continues to be, 
+      twenty-first-century writing practices continues to be extremely
       generative. Contesting the terms of their reception within the
       avant-gardes with which they are most often associated, I take both poets
       seriously as poet-researchers whose science-inflected writing practices
