@@ -22,6 +22,9 @@ sections:
       projects and public humanities work, I aim to scaffold
       critical-collaborative models of collectivity and explore
       community-oriented research from within its practice.
+
+
+      \*\*\*
   - title: A Cat
     section_id: cat
     type: section_content
