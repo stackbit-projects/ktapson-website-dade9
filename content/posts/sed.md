@@ -1,5 +1,4 @@
 ---
-title: Minecraft
 date: '2016-08-28'
 thumb_img_alt: Geometric pattern
 seo:
