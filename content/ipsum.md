@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Current Teaching
 subtitle: 'Experiments in Science, Art, and Writing'
 seo:
   title: Ipsum dolor sit amet
