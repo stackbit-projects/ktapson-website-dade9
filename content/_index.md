@@ -59,6 +59,7 @@ sections:
       into the environment. Performing modes of environmental synthesis across
       temporalities that places artistic in charge of scientific modes of
       observation. How these relationships, in science, represent. Argues that
+      Thinking laboratory science otherwise within the everyday.
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
