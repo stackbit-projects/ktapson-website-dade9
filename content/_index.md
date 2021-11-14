@@ -31,7 +31,7 @@ sections:
       epistemological trajectories across the poetry of Clark Coolidge and
       Bernadette Mayer, two poets whose influence on twentieth and
       twenty-first-century writing practices has been, and continues to be,
-      extremely generative. Contesting the terms of their reception within the
+      generative. Contesting the terms of their reception within the
       avant-gardes with which they are most often associated, I take both poets
       seriously as poet-researchers whose science-inflected writing practices
       and complex ways of interacting with their own laboriously generated
