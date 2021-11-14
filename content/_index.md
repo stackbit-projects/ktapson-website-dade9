@@ -46,22 +46,26 @@ sections:
       Correspondence of Bernadette Mayer and Clark Coolidge, 1979-82.*
 
 
-      My next book project, tentatively titled *Serpentine Poetics for Everyday
+      My next book project, tentatively titled *Poetic Chemistry for Everyday
       Shapes*, follows a series of creature relationships that involve
       anthropocentric intervention in various ways: ants, beetles, flies,
-      snakes. through webs of science and art, folding the book onto its body - 
+      snakes. through webs of science and art, folding the book onto its body -
       ants, beetles, flies, snakes - folding environments onto their bodies -
       how different concepts of the laboratory and the model organism get
-      defined in the practices of --  even in simple situations complicate the
-      relationships between creature relationships and and environments that
-      ostensibly surround them - how certain features of the laboratory models
-      get mobilized in public space - how humans function as model organisms -
-      One key aspect of the Anthropocene is the way it projects the accumulation
-      of human activity into the environment. Performing modes of environmental
-      synthesis across temporalities that places artistic in charge of
-      scientific modes of observation. How these relationships, in science,
-      represent. Argues that Thinking laboratory science otherwise within the
-      everyday.
+      defined in the practices of -- the animal, elemental, to make materials
+      beyond the natural - while genetic manipulation represents one trajectory
+      of laboratory practice \__\_, then \__\__ represents a   even in simple
+      situations complicate the relationships between creature relationships and
+      and environments that ostensibly surround them - how certain features of
+      the laboratory models get mobilized in public space - ecologies of
+      chemical effect - critiques of the periodic table of elements, its order
+      and organization - how humans function as model organisms - One key aspect
+      of the Anthropocene is the way it projects the accumulation of human
+      activity into the environment. Performing modes of environmental synthesis
+      across temporalities that places artistic in charge of scientific modes of
+      observation. How these relationships, in science, represent. Argues that
+      Thinking laboratory science otherwise within the everyday. -- unreactive
+      in the body --
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
