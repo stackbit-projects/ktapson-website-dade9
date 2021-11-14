@@ -10,19 +10,18 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >+
+    content: >
       My research focuses on postwar and contemporary poetry and science with an
       emphasis on experimental practice across discourses. Currently, my
-      interests and studies traverse ecopoetics, laboratory science, feminist
-      technoscience, histories of scientific instrumentation, and avant-garde
-      art and writing associated with empirical research practices, particularly
-      as they relate to the physical sciences. These interests are directed
-      toward examining how durational research projects can support exchanges
-      between practices of art and science across scales. In my related writing
-      projects and public humanities work, I aim to scaffold
-      critical-collaborative models of collectivity and explore
-      community-oriented research from within its practice.
-
+      interests traverse ecopoetics, laboratory science, feminist technoscience,
+      histories of scientific instrumentation, and avant-garde art and writing
+      associated with empirical research practices, particularly as they relate
+      to the physical sciences. These interests are directed toward examining
+      how durational research projects can support exchanges between practices
+      of art and science across scales. In my related writing studies and public
+      humanities work, I aim to scaffold critical-collaborative models of
+      collectivity and explore community-oriented research from within its
+      practice.
   - title: A Cat
     section_id: cat
     type: section_content
