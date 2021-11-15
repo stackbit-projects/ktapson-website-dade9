@@ -26,10 +26,10 @@ sections:
 
       My first book project, *Enduring Experiments,* investigates intersecting
       epistemological trajectories across the poetry of Clark Coolidge and
-      Bernadette Mayer while taking both poets seriously as poet-researchers
-      whose science-inflected writing practices and complex ways of interacting
-      with their own laboriously generated poetic milieus challenge the limits
-      of existing models for describing postwar poetry’s engagement with
+      Bernadette Mayer, taking both poets seriously as poet-researchers whose
+      science-inflected writing practices and complex ways of interacting with
+      their own laboriously generated poetic milieus challenge the limits of
+      existing models for describing postwar poetry’s engagement with
       experimental science. Across the book, I bring the discourse on experiment
       in science studies into contact with poetics, showing how experimental
       poetry can be a surprising source for alternative conceptual models of
