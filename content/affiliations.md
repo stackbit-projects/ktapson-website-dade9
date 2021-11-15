@@ -7,6 +7,13 @@ seo:
   extra: []
 layout: page
 ---
+{
+    "name": "Stackbit Vanilla",
+    "email": "email@example.com",
+    "avatar": "images/IMG_2489.jpg",
+    "avatar_alt": "Author avatar"
+}
+
 Kristen Tapson is a Scholar in Residence in the Department of Art, Art History and Visual Studies at Duke University. She holds a B.A. in English and a B.S. in Chemistry from Duke University (2006) and a Ph.D. in English from New York University (2017).
 
 Current affiliations include:
