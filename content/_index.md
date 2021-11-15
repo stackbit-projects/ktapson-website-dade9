@@ -16,10 +16,10 @@ sections:
       histories of scientific instrumentation, and avant-garde art and writing
       associated with practices of research, particularly as they relate to the
       physical and biological sciences. These interests are directed toward
-      examining how durational collaborations (in art, in labs, and beyond) can
-      support exchanges between practices of art and science across scales and
-      modalities. In my related writing studies and public humanities work, I
-      aim to scaffold critical-collaborative models of collectivity and explore
+      examining how durational collaborations can support exchanges between
+      practices of art and science across scales and modalities. In my related
+      writing studies and public humanities work, I aim to scaffold
+      critical-collaborative models of collectivity and explore
       community-oriented research from within its practice.
 
 
