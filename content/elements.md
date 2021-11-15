@@ -23,7 +23,8 @@ layout: page
 ---
 ### *Another Autecology of the Copperhead (2020-)*
 
-**
+
+
 
 
 
