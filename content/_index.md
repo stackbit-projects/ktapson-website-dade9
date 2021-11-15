@@ -52,13 +52,13 @@ sections:
       snakes. through webs of science and art, folding the book onto its body -
       ants, beetles, flies, snakes - borrowing practices - poets working with
       language against the book as a unit of inquiry develop a mode of chemical
-      inquiry that science (with its exclusion of \__\_) - and it's this mode of
+      inquiry that science (with its exclusion of \_*\_) - and it's this mode of
       artistic research that has implications for how the nonhuman world -
       folding environments onto their bodies - synaesthesia - how different
       concepts of the laboratory and the model organism get defined in the
       practices of -- the animal, elemental, to make materials beyond the
       natural - while genetic manipulation represents one trajectory of
-      laboratory practice \_*\_, then \_*\__ represents a   even in simple
+      laboratory practice \__, then \__* represents a   even in simple
       situations complicate the relationships between creature relationships and
       and environments that ostensibly surround them - how certain features of
       the laboratory models get mobilized in public space - ecologies of
@@ -69,7 +69,9 @@ sections:
       across temporalities that places artistic in charge of scientific modes of
       observation. How these relationships, in science, represent. Argues that
       Thinking laboratory science otherwise within the everyday. -- unreactive
-      in the body --
+      in the body -- how the incorporation of environments onto the body
+      (physically, biochemically, radioactively etc) can bring humans in
+      relation to animals in alternative ways - 
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
