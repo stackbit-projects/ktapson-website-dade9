@@ -17,8 +17,8 @@ sections:
       histories of scientific instrumentation, and avant-garde art and writing
       associated with practices of research, particularly as they relate to the
       physical and biological sciences. These interests are directed toward
-      examining how durational research collaborations can support exchanges
-      between practices of art and science across scales and modalities. In my 
+      examining how durational collaborations can support exchanges between
+      practices of art and science across scales and modalities. In my related
       writing studies and public humanities work, I aim to scaffold
       critical-collaborative models of collectivity and explore
       community-oriented research from within its practice.
@@ -26,22 +26,23 @@ sections:
 
       My first book project, *Enduring Experiments,* investigates intersecting
       epistemological trajectories across the poetry of Clark Coolidge and
-      Bernadette Mayer, taking them both seriously as poet-researchers whose
+      Bernadette Mayer, taking both poets seriously as researchers whose
       science-inflected writing practices and complex ways of interacting with
       their own laboriously generated poetic milieus challenge the limits of
       existing models for describing postwar poetry’s engagement with
       experimental science. Throughout the book, I bring the discourse on
       experiment in science studies into contact with poetics, showing how
       experimental poetry can be a surprising source for alternative conceptual
-      models of scientific subjectivity. Overlapping my work on* Enduring
+      models of scientific subjectivity. Overlapping my work on *Enduring
       Experiments*, I co-edited the expansive Coolidge-Mayer correspondence,
       which extends across three decades. A key portion of the correspondence is
       forthcoming from University of New Mexico Press (Fall 2022). My next book
       project, tentatively titled *Sponge Poetics: Fuzzy Models for Everyday
       Science*, rethinks the concept of the model organism in the production of
-      scientific knowledge in relation to a series of counter-possibilities in
-      postwar and contemporary poetry and art. Repositioning the Anthropocene
-      and environmental - draws out a model from science and poetry for X.
+      scientific knowledge through a series of counter-possibilities in postwar
+      and contemporary poetry and art. Repositioning the moral and political
+      urgency of the Anthropocene and environmental, I propose a model for
+      science and poetry for X. 
   - title: A Cat
     section_id: cat
     type: section_content
