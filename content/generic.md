@@ -31,4 +31,4 @@ layout: page
 
 [Nothing is Possible](https://s-1lab.pubpub.org/nothing-is-possible)
 
-### Nothing is Possible is a collaboration between the Duke Speculative Sensation Lab and contractors at the Research Triangle Park Frontier co-working space, doing nothing.
+### Nothing is Possible is a collaboration between the Duke Speculative Sensation Lab and contractors at the Research Triangle Park Frontier co-working space on doing nothing.
