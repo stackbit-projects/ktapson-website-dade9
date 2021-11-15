@@ -37,14 +37,13 @@ sections:
       across three decades. A key portion of the correspondence is forthcoming
       from University of New Mexico Press (Fall 2022). My next book project,
       tentatively titled *Serpentine Poetics for Everyday Science*, rethinks
-      experimental methods of the production of scientific knowledge through
-      examination of a series of counter-possibilities in postwar and
-      contemporary poetry and art. Framing the model as a human , humans, and
-      nonhuman the moral and political urgency of the Anthropocene and
-      environmental, I propose the organismal model as a site for inquiries at a
-      moment when technology-driven transformations of these systems of
-      experiment stand to complicate their potential to interface with artistic
-      modes of inquiry.
+      experimental methods of scientific knowing through a series of
+      counter-possibilities in postwar and contemporary poetry and art. mobilize
+      these concepts Framing the model as a human , humans, and nonhuman the
+      moral and political urgency of the Anthropocene and environmental, I
+      propose the organismal model as a site for inquiries at a moment when
+      technology-driven transformations of these systems of experiment stand to
+      complicate their potential to interface with artistic modes of inquiry.
   - title: A Cat
     section_id: cat
     type: section_content
