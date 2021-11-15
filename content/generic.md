@@ -21,7 +21,7 @@ seo:
       value: This is a generic page
 layout: page
 ---
-### [Minecraft Block Party](pandablockparty.org)
+### [![](images/Screen%20Shot%202021-08-17%20at%201.03.44%20PM.png)Minecraft Block Party](pandablockparty.org)
 
 ### ![Block Image](/images/art.svg)
 
