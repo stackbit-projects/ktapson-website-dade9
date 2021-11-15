@@ -36,9 +36,9 @@ sections:
       co-edited the expansive Coolidge-Mayer correspondence, which extends
       across three decades. A key portion of the correspondence is forthcoming
       from University of New Mexico Press (Fall 2022). My next book project,
-      tentatively titled *Serpentine Poetics for Everyday Science*, rethinks the
-      role of the model organism in the production of scientific knowledge
-      through examination of a series of counter-possibilities in postwar and
+      tentatively titled *Serpentine Poetics for Everyday Science*, rethinks
+      experimental methods of the production of scientific knowledge through
+      examination of a series of counter-possibilities in postwar and
       contemporary poetry and art. Framing the model as a human , humans, and
       nonhuman the moral and political urgency of the Anthropocene and
       environmental, I propose the organismal model as a site for inquiries at a
