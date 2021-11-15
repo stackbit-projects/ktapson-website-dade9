@@ -37,11 +37,14 @@ sections:
       across three decades. A key portion of the correspondence is forthcoming
       from University of New Mexico Press (Fall 2022). My next book project,
       tentatively titled *Sponge Poetics: Fuzzy Models for Everyday Science*,
-      rethinks the concept of the model organism in the production of scientific
-      knowledge through a series of counter-possibilities in postwar and
-      contemporary poetry and art. Repositioning the moral and political urgency
-      of the Anthropocene and environmental, I propose a model for science and
-      poetry for X.
+      rethinks the role of the model organism in the production of scientific
+      knowledge through examination of a series of counter-possibilities in
+      postwar and contemporary poetry and art. Framing the model as a cathect
+      site strange ways models cathect human , humans, and nonhuman  the moral
+      and political urgency of the Anthropocene and environmental, I propose the
+      organismal model as a site for inquiries at a moment when
+      technology-driven transformations of these systems of experiment stand to
+      complicate their potential to interface with artistic modes of inquiry.
   - title: A Cat
     section_id: cat
     type: section_content
