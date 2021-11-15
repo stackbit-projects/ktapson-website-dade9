@@ -23,12 +23,14 @@ layout: page
 ---
 #### [Minecraft Block Party](pandablockparty.org)
 
-### ![Block Image](/images/art.svg)![](images/art-logo.svg)![](images/art.svg)
+### ![Block Image](/images/art.svg)
 
 ##### *Minecraft Block Party* is a critical digital literacy workshop series and community art project developed during the 2020 school closures as a partnership between the Duke s-1 collective and the Parents of African American Children committee at Pearsontown Elementary School with the support of the Durham Public Schools Foundation.
 
-![](images/art.svg)![](images/art-logo.svg)![](images/art.svg)
 
-[Nothing is Possible](https://s-1lab.pubpub.org/nothing-is-possible)
+
+### [Nothing is Possible](https://s-1lab.pubpub.org/nothing-is-possible)
+
+![](images/art.svg)
 
 ### Nothing is Possible is a collaboration between the Duke Speculative Sensation Lab and contractors at the Research Triangle Park Frontier co-working space on doing nothing.
