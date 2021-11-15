@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: herok
+  - section_id: hero
     type: section_hero
     subtitle: |
       ###
