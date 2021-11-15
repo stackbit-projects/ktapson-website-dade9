@@ -33,15 +33,15 @@ sections:
       experimental science. Throughout the book, I bring the discourse on
       experiment in science studies into contact with poetics, showing how
       experimental poetry can be a surprising source for alternative conceptual
-      models of scientific subjectivity. Overlapping my work on this book, I
-      co-edited the expansive Coolidge-Mayer correspondence, which extends
-      across three decades. A key portion of the correspondence is forthcoming
-      from University of New Mexico Press (Fall 2022). My next book project,
-      tentatively titled *Sponge Poetics: Fuzzy Models for Everyday Science*,
-      rethinks the concept of the model organism in the production of scientific
-      knowledge in relation to a series of counter-possibilities in postwar and
-      contemporary poetry and art. Repositioning the Anthropocene and
-      environmental - draws out a model from science and poetry for X.
+      models of scientific subjectivity. Overlapping my work on* Enduring
+      Experiments*, I co-edited the expansive Coolidge-Mayer correspondence,
+      which extends across three decades. A key portion of the correspondence is
+      forthcoming from University of New Mexico Press (Fall 2022). My next book
+      project, tentatively titled *Sponge Poetics: Fuzzy Models for Everyday
+      Science*, rethinks the concept of the model organism in the production of
+      scientific knowledge in relation to a series of counter-possibilities in
+      postwar and contemporary poetry and art. Repositioning the Anthropocene
+      and environmental - draws out a model from science and poetry for X.
   - title: A Cat
     section_id: cat
     type: section_content
