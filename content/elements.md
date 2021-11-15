@@ -31,9 +31,9 @@ Autecology sits at the edge between experimental and descriptive practice. It as
 
 context of relation -
 
-\__\__\__\__\__\__\__\__\__\__\__\__\_
+\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_
 
-### *Rock, Paper, Scissors*
+### *Minecraft Paper*
 
 1.  Donec non tortor in arcu mollis feugiat
 2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
