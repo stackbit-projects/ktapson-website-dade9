@@ -45,6 +45,7 @@ sections:
       propose the organismal model as a site for inquiries at a moment when
       technology-driven transformations of these systems of experiment stand to
       complicate their potential to interface with artistic modes of inquiry.
+    image: images/IMG_2489-3b7c07b6.jpg
   - title: A Cat
     section_id: cat
     type: section_content
