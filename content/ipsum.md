@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Current Teaching
 seo:
   title: Ipsum dolor sit amet
   description: Aliquam lobortis faucibus blandit
