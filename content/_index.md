@@ -43,7 +43,8 @@ sections:
       project, tentatively titled *Sponge Poetics: Fuzzy Models for Everyday
       Science*, rethinks the concept of the model organism in the production of
       scientific knowledge in relation to a series of counter-possibilities in
-      postwar and contemporary poetry and art. 
+      postwar and contemporary poetry and art. Repositioning the Anthropocene
+      and environmental - draws out a model from science and poetry for X.
   - title: A Cat
     section_id: cat
     type: section_content
