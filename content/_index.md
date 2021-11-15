@@ -27,7 +27,7 @@ sections:
       epistemological trajectories across the poetry of Clark Coolidge and
       Bernadette Mayer, taking both poets seriously as researchers whose
       science-inflected writing practices and complex ways of interacting with
-      their own laboriously generated poetic milieus challenge the limits of
+      their  laboriously generated poetic milieus challenge the limits of
       existing models for describing postwar poetry’s engagement with
       experimental science. Throughout the book, I bring the discourse on
       experiment in science studies into contact with poetics, showing how
@@ -36,15 +36,15 @@ sections:
       co-edited the expansive Coolidge-Mayer correspondence, which extends
       across three decades. A key portion of the correspondence is forthcoming
       from University of New Mexico Press (Fall 2022). My next book project,
-      tentatively titled *Sponge Poetics for Everyday Science*, rethinks the
+      tentatively titled *Serpentine Poetics for Everyday Science*, rethinks the
       role of the model organism in the production of scientific knowledge
       through examination of a series of counter-possibilities in postwar and
-      contemporary poetry and art. Framing the model as a cathect site strange
-      ways models cathect human , humans, and nonhuman  the moral and political
-      urgency of the Anthropocene and environmental, I propose the organismal
-      model as a site for inquiries at a moment when technology-driven
-      transformations of these systems of experiment stand to complicate their
-      potential to interface with artistic modes of inquiry.
+      contemporary poetry and art. Framing the model as a human , humans, and
+      nonhuman  the moral and political urgency of the Anthropocene and
+      environmental, I propose the organismal model as a site for inquiries at a
+      moment when technology-driven transformations of these systems of
+      experiment stand to complicate their potential to interface with artistic
+      modes of inquiry.
   - title: A Cat
     section_id: cat
     type: section_content
