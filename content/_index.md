@@ -26,7 +26,7 @@ sections:
 
       My first book project, *Enduring Experiments,* investigates intersecting
       epistemological trajectories across the poetry of Clark Coolidge and
-      Bernadette Mayer, taking them seriously as poet-researchers whose
+      Bernadette Mayer, taking them both seriously as poet-researchers whose
       science-inflected writing practices and complex ways of interacting with
       their own laboriously generated poetic milieus challenge the limits of
       existing models for describing postwar poetry’s engagement with
