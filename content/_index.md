@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: 'science, art, writing, experiment'
+    title: welcome
     subtitle: |
       ###
     image_alt: Author avatar
