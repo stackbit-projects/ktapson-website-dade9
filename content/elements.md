@@ -31,15 +31,9 @@ Autecology sits at the edge between experimental and descriptive practice. It as
 
 context of relation -
 
-### ![](images/July%2023%202021%20904pm.JPG)
+\__\__\__\__\__\__\__\__\__\__\__\__\_
 
-*   Here are some bullet points
-*   Here are some bullet points
-*   This is a really long bullet point that wraps to multiple lines. Nunc tempus suscipit. Donec quis magna id lacus eleifend volutpat. Suspendisse ac mattis velit, vel sagittis metus. Etiam non massa eu lectus maximus elementum. Etiam id aliquet quam. Vestibulum id lacinia ex, in rutrum metus. Donec varius auctor ligula.
-*   Here are some bullet points
-*   Here are some bullet points
-
-### Ordered List
+### *Rock, Paper, Scissors*
 
 1.  Donec non tortor in arcu mollis feugiat
 2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
