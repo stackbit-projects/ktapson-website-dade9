@@ -6,7 +6,6 @@ sections:
     subtitle: |
       ###
     image_alt: Author avatar
-    title: Kristen
   - title: Text
     section_id: intro
     type: section_content
