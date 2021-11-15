@@ -30,13 +30,13 @@ sections:
       science-inflected writing practices and complex ways of interacting with
       their own laboriously generated poetic milieus challenge the limits of
       existing models for describing postwar poetry’s engagement with
-      experimental science. Across the book, I bring the discourse on experiment
-      in science studies into contact with poetics, showing how experimental
-      poetry can be a surprising source for alternative conceptual models of
-      scientific subjectivity. Overlapping my work on this book, I co-edited the
-      expansive Coolidge-Mayer correspondence, which extends across three
-      decades. A key portion of the correspondence is forthcoming from
-      University of New Mexico Press (Fall 2022). My next book project,
+      experimental science. Throughout the book, I bring the discourse on
+      experiment in science studies into contact with poetics, showing how
+      experimental poetry can be a surprising source for alternative conceptual
+      models of scientific subjectivity. Overlapping my work on this book, I
+      co-edited the expansive Coolidge-Mayer correspondence, which extends
+      across three decades. A key portion of the correspondence is forthcoming
+      from University of New Mexico Press (Fall 2022). My next book project,
       tentatively titled *Sponge Poetics: Fuzzy Models for Everyday Science*,
       rethinks the concept of the model organism in the production of scientific
       knowledge in relation to a series of counter-possibilities in postwar and
