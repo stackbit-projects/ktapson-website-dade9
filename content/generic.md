@@ -27,7 +27,7 @@ layout: page
 
 #### *Minecraft Block Party* (2020-2021) is a critical digital literacy workshop series and community art project developed as a partnership between the Duke s-1 collective and the Parents of African American Children committee at Pearsontown Elementary School with the support of the Durham Public Schools Foundation.
 
-###
+![](images/art.svg)![](images/art-logo.svg)![](images/art.svg)
 
 ### [Nothing is Possible](https://s-1lab.pubpub.org/nothing-is-possible)
 
