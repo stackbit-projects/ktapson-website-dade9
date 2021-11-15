@@ -21,7 +21,7 @@ sections:
       practices of art and science across scales and modalities. In my related
       writing studies and public humanities work, I aim to scaffold
       critical-collaborative models of collectivity and explore
-      community-oriented research from within its practice.
+      community-oriented research from within its practice. 
 
 
       My first book project, *Enduring Experiments,* investigates intersecting
