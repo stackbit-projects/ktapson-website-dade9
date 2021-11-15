@@ -39,38 +39,39 @@ sections:
       conceptual models of scientific subjectivity. Overlapping my work on this
       book, I co-edited the expansive Coolidge-Mayer correspondence, which
       extends across three decades. A key portion of the correspondence is
-      forthcoming (Fall 2022) from University of New Mexico Press as *The
-      Correspondence of Bernadette Mayer and Clark Coolidge, 1979-82.*
+      forthcoming (Fall 2022) as *The Correspondence of Bernadette Mayer and
+      Clark Coolidge, 1979-82.*
 
 
-      My next book project, tentatively titled * name for relation between human
-      and animal*:* Elemental Poetics for Everyday Shapes *follows a series of
-      creature relationships that involve anthropocentric intervention in
-      various ways: ants, beetles, flies, snakes. through webs of science and
-      art, folding the book onto its body - ants, beetles, flies, snakes -
-      borrowing practices - poets working with language against the book as a
-      unit of inquiry develop a mode of chemical inquiry that science (with its
-      exclusion of \_*\_) - including but not limited to scientific practices -
-      and it's this mode of artistic research that has implications for how the
-      nonhuman world - folding environments onto their bodies - synaesthesia -
-      how different concepts of the laboratory and the model organism get
-      defined in the practices of -- the animal, elemental, to make materials
-      beyond the natural - while genetic manipulation represents one trajectory
-      of laboratory practice \_, then \_* represents a   even in simple
-      situations complicate the relationships between creature relationships and
-      and environments that ostensibly surround them - how certain features of
-      the laboratory models get mobilized in public space - ecologies of
-      chemical effect - environmentally produced shapes - critiques of the
-      periodic table of elements, its order and organization - how humans
-      function as model organisms - One key aspect of the Anthropocene is the
-      way it projects the accumulation of human activity into the environment.
-      Performing modes of environmental synthesis across temporalities that
-      places artistic in charge of scientific modes of observation. How these
-      relationships, in science, represent. Argues that Thinking laboratory
-      science otherwise within the everyday. -- unreactive in the body -- how
-      the incorporation of environments onto the body (physically,
-      biochemically, radioactively etc) can bring humans in relation to animals
-      in alternative ways -
+      My next book project, tentatively titled *Elemental Poetics for Everyday
+      Shapes* begins at the scale of the rethinking how nonhuman - how knowledge
+      of \__\_ returns to the scale of \__\__ fo*llows a series of creature
+      relationships that involve anthropocentric intervention in various ways:
+      ants, beetles, flies, snakes. through webs of science and art, folding the
+      book onto its body - ants, beetles, flies, snakes - borrowing practices -
+      poets working with language against the book as a unit of inquiry develop
+      a mode of chemical inquiry that science (with its exclusion of \_*\_) -
+      including but not limited to scientific practices - and it's this mode of
+      artistic research that has implications for how the nonhuman world -
+      folding environments onto their bodies - synaesthesia - how different
+      concepts of the laboratory and the model organism get defined in the
+      practices of -- the animal, elemental, to make materials beyond the
+      natural - while genetic manipulation represents one trajectory of
+      laboratory practice \_, then \_\* represents a   even in simple situations
+      complicate the relationships between creature relationships and and
+      environments that ostensibly surround them - how certain features of the
+      laboratory models get mobilized in public space - ecologies of chemical
+      effect - environmentally produced shapes - critiques of the periodic table
+      of elements, its order and organization - how humans function as model
+      organisms - One key aspect of the Anthropocene is the way it projects the
+      accumulation of human activity into the environment. Performing modes of
+      environmental synthesis across temporalities that places artistic in
+      charge of scientific modes of observation. How these relationships, in
+      science, represent. Argues that Thinking laboratory science otherwise
+      within the everyday. -- unreactive in the body -- how the incorporation of
+      environments onto the body (physically, biochemically, radioactively etc)
+      can bring humans in relation to animals in alternative ways -\* name for
+      relation between human and animal - what kind of knowledge you can gain - 
   - title: A Cat
     section_id: cat
     type: section_content
