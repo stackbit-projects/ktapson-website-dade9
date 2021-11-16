@@ -47,7 +47,8 @@ sections:
       at a moment when technology-driven transformations of these systems of
       experiment stand to complicate their potential to interface with artistic
       modes of inquiry. --> laboratories have shifted into the natural world -
-      modes of artistic practice and description that ...
+      modes of artistic practice and description that ..., where the laboratory
+      signifies both a 
   - title: A Cat
     section_id: cat
     type: section_content
