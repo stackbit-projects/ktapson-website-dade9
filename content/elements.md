@@ -33,7 +33,7 @@ context of relation -
 
 \_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_
 
-### *Minecraft Paper*
+### *Minecraft Papers*
 
 1.  Donec non tortor in arcu mollis feugiat
 2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
