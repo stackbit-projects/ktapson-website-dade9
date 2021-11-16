@@ -33,4 +33,4 @@ layout: page
 
 ![](images/art.svg)
 
-##### *Nothing is Possible* is a collaboration between the Duke Speculative Sensation Lab and contractors at the Research Triangle Park's Frontier co-working space on doing nothing.
+##### *Nothing is Possible*  Durham Public Schools Foundation.is a collaboration between the Duke Speculative Sensation Lab and contractors at the Research Triangle Park's Frontier co-working space on doing nothing.
