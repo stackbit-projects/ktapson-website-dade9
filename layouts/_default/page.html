@@ -4,11 +4,7 @@
     <header class="hero">
         <div class="copy">
             <h1>{{ .Title }}</h1>
-            {{ if .Params.subtitle }}
-
- 
-
-            <h3>{{ $.Params.subtitle | safeHTML }}</h3>
+            {{ if .Params.subtitle }} <h3>{{ $.Params.subtitle | safeHTML }}</h3>
             {{ end }}
         </div>
     </header>
