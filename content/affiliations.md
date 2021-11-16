@@ -20,3 +20,7 @@ Current affiliations include:
 <!---->
 
 *   [NC Herpetological Society](https://ncherps.org/)
+
+\<!---->
+
+*   [Society for Literature, Science & the Arts](https://litsciarts.org/)
