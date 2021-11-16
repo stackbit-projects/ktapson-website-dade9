@@ -27,25 +27,25 @@ sections:
       My first book project, *Enduring Experiments,* investigates intersecting
       epistemological trajectories across the poetry of Clark Coolidge and
       Bernadette Mayer, taking both poets seriously as researchers whose
-      science-inflected writing practices and complex ways of interacting with
-      their  laboriously generated poetic milieus challenge the limits of
-      existing models for describing postwar poetry’s engagement with
-      experimental science. Throughout the book, I bring the discourse on
-      experiment in science studies into contact with poetics, showing how
-      experimental poetry can be a surprising source for alternative concepts of
-      scientific subjectivity. Overlapping my work on *Enduring Experiments*, I
-      co-edited the expansive Coolidge-Mayer correspondence, which extends
-      across three decades. A key portion of the correspondence is forthcoming
-      from University of New Mexico Press (Fall 2022). My next book project,
-      tentatively titled *Sponge Poetics for Everyday Science*, rethinks - how
-      to study a system with a model organism - what is the groundwork of that?
-      experimental methods of scientific knowing through a series of
-      counter-possibilities in postwar and contemporary poetry and art. mobilize
-      these concepts Framing the model as a human , humans, and nonhuman the
-      moral and political urgency of the Anthropocene and environmental, I
-      propose the organismal model as a site for inquiries at a moment when
-      technology-driven transformations of these systems of experiment stand to
-      complicate their potential to interface with artistic modes of inquiry.
+      experiment-inflected writing practices and complex ways of interacting
+      with their laboriously generated poetic milieus challenge the limits of
+      existing models for describing postwar poetry’s engagement with science.
+      Throughout the book, I bring the discourse on experiment in science
+      studies into contact with poetics, showing how experimental poetry can be
+      a surprising source for alternative models of scientific subjectivity.
+      Overlapping my work on *Enduring Experiments*, I co-edited the expansive
+      Coolidge-Mayer correspondence, which extends across three decades. A key
+      portion of the correspondence is forthcoming from University of New Mexico
+      Press (Fall 2022). My next book project, tentatively titled *Sponge
+      Poetics for Everyday Science*, rethinks - how to study a system with a
+      model organism - what is the groundwork of that? experimental methods of
+      scientific knowing through a series of counter-possibilities in postwar
+      and contemporary poetry and art. mobilize these concepts Framing the model
+      as a human , humans, and nonhuman the moral and political urgency of the
+      Anthropocene and environmental, I propose the organismal model as a site
+      for inquiries at a moment when technology-driven transformations of these
+      systems of experiment stand to complicate their potential to interface
+      with artistic modes of inquiry.
   - title: A Cat
     section_id: cat
     type: section_content
