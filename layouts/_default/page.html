@@ -5,6 +5,10 @@
         <div class="copy">
             <h1>{{ .Title }}</h1>
             {{ if .Params.subtitle }}
+
+  "avatar": "images/IMG_2489.jpg",
+    "avatar_alt": "Author avatar"
+
             <h3>{{ $.Params.subtitle | safeHTML }}</h3>
             {{ end }}
         </div>
