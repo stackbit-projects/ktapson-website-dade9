@@ -15,7 +15,7 @@ Current affiliations include:
 
 <!---->
 
-*   [nothing happening here](https://nothinghappeninghere.work/)
+*   [Nothing Happening Here](https://nothinghappeninghere.work/)
 
 <!---->
 
