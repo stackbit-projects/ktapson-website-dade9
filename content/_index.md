@@ -46,7 +46,8 @@ sections:
       and environmental, I propose the organismal model as a site for inquiries
       at a moment when technology-driven transformations of these systems of
       experiment stand to complicate their potential to interface with artistic
-      modes of inquiry.
+      modes of inquiry. --> laboratories have shifted into the natural world -
+      modes of artistic practice and description that ...
   - title: A Cat
     section_id: cat
     type: section_content
