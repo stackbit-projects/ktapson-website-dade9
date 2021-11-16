@@ -23,7 +23,11 @@ layout: page
 ---
 ### *Another Autecology of the Copperhead (2020-)*
 
-Donec malesuada, augue eu blandit porta, metus metus auctor leo, non dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an inline link](https://www.google.com) placerat non, eleifend tempor dolor. Quisque sed nisl elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec, condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia aliquam velit. Mauris ut purus in nisl suscipit feugiat. Working in dialogue with Henry S. Fitch's *Autecology of the Copperhead* () and *Kansas Snake Communities* () as well as drawing on practices and knowledge \__\_ from
+Donec malesuada, augue eu blandit porta, metus metus auctor leo, non dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an inline link](https://www.google.com) placerat non, eleifend tempor dolor. Quisque sed nisl elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea dictumst. Mauris sed 
+
+### Another Autecology of the Copperhead (2020-)
+
+odio magna. Duis felis turpis, posuere at erat nec, condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia aliquam velit. Mauris ut purus in nisl suscipit feugiat. Working in dialogue with Henry S. Fitch's *Autecology of the Copperhead* () and *Kansas Snake Communities* () as well as drawing on practices and knowledge \__\_ from
 
 but are not limited to them. Judith and Herbert Kohl's *The View from the Oak*, the project documents - particular species relationship - habits of relation - what's personal about science
 
@@ -34,6 +38,12 @@ context of relation -
 \_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_
 
 ### Kitchen Objects
+
+###
+
+### Minecraft Papers
+
+
 
 ### *Minecraft Papers*
 
