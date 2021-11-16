@@ -21,7 +21,7 @@ sections:
       practices of art and science across scales and modalities. In my related
       writing studies and public humanities work, I aim to scaffold
       critical-collaborative models of collectivity and explore
-      community-oriented research from within its practice. 
+      community-oriented research from within its practice.
 
 
       My first book project, *Enduring Experiments,* investigates intersecting
@@ -37,7 +37,8 @@ sections:
       co-edited the expansive Coolidge-Mayer correspondence, which extends
       across three decades. A key portion of the correspondence is forthcoming
       from University of New Mexico Press (Fall 2022). My next book project,
-      tentatively titled *Serpentine Poetics for Everyday Science*, rethinks
+      tentatively titled *Sponge Poetics for Everyday Science*, rethinks - how
+      to study a system with a model organism - what is the groundwork of that?
       experimental methods of scientific knowing through a series of
       counter-possibilities in postwar and contemporary poetry and art. mobilize
       these concepts Framing the model as a human , humans, and nonhuman the
