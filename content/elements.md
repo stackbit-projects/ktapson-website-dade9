@@ -30,19 +30,3 @@ but are not limited to them. Judith and Herbert Kohl's *The View from the Oak*, 
 Autecology sits at the edge between experimental and descriptive practice. It asks - and answers with -
 
 context of relation -
-
-\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_*\_
-
-### Kitchen Objects
-
-###
-
-### Minecraft Papers
-
-### *Minecraft Papers*
-
-1.  Donec non tortor in arcu mollis feugiat
-2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3.  Donec id eros eget quam aliquam gravida
-4.  Vivamus convallis urna id felis
-5.  Nulla porta tempus sapien
