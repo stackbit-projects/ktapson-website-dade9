@@ -48,7 +48,7 @@ sections:
       experiment stand to complicate their potential to interface with artistic
       modes of inquiry. --> laboratories have shifted into the natural world -
       modes of artistic practice and description that ..., where the laboratory
-      signifies both a 
+      signifies both a - moving across the discourses of neuroscience, 
   - title: A Cat
     section_id: cat
     type: section_content
