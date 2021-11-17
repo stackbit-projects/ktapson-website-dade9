@@ -23,7 +23,7 @@ layout: page
 ---
 ### Minecraft Block Party
 
-*Minecraft Block Party *is a critical digital literacy workshop series and community art project developed during the 2020 school closures as a partnership between the Duke Speculative Sensation Lab / s-1 collective and the Parents of African American Children committee at Pearsontown Elementary School with the support of the Durham Public Schools Foundation.
+*Minecraft Block Party* is a critical digital literacy workshop series and community art project developed during the 2020 school closures as a partnership between the Duke Speculative Sensation Lab / s-1 collective and the Parents of African American Children committee at Pearsontown Elementary School with the support of the Durham Public Schools Foundation.
 
 ![](images/art.svg)
 
