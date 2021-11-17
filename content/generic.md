@@ -29,10 +29,10 @@ Minecraft Block Party is a critical digital literacy workshop series and communi
 
 >
 
-**[*Nothing is Possible*](https://s-1lab.pubpub.org/nothing-is-possible)
-
 ![](images/art.svg)
 
-### Nothing is Possible
+### [Nothing is Possible](https://s-1lab.pubpub.org/nothing-is-possible)
 
 *Nothing is Possible* is a collaboration between the Duke Speculative Sensation Lab and contractors at the Research Triangle Park's Frontier co-working space on doing nothing.
+
+![](images/art.svg)
