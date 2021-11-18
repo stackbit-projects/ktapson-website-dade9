@@ -35,21 +35,7 @@ sections:
       concepts of scientific subjectivity. Overlapping my work on *Enduring
       Experiments*, I co-edited the expansive Coolidge-Mayer correspondence,
       which extends across three decades. A key portion of the correspondence is
-      forthcoming from University of New Mexico Press (Fall 2022). My next book
-      project, tentatively titled *Sponge Poetics for Everyday Science*,
-      explores \__, traversing neuroscience experimentation,  forms of
-      experience through the lens of the model organism in laboratory science. -
-      how to study a system with a model organism - what is the groundwork of
-      that? experimental methods of scientific knowing through a series of
-      counter-possibilities in postwar and contemporary poetry and art. mobilize
-      these concepts Framing the model as a human , humans, and nonhuman the
-      moral and political urgency of the Anthropocene and environmental, I
-      propose the organismal model as a site for inquiries at a moment when
-      technology-driven transformations of these systems of experiment stand to
-      complicate their potential to interface with artistic modes of inquiry.
-      --> laboratories have shifted into the natural world - modes of artistic
-      practice and description that ..., where the laboratory signifies both a -
-      moving across the discourses of neuroscience,
+      forthcoming from University of New Mexico Press (Fall 2022).
   - title: A Cat
     section_id: cat
     type: section_content
