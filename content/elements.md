@@ -23,10 +23,4 @@ layout: page
 ---
 ### Another Autecology of the Copperhead (2020-)
 
-odio magna. Duis felis turpis, posuere at erat nec, condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia aliquam velit. Mauris ut purus in nisl suscipit feugiat. Working in dialogue with Henry S. Fitch's *Autecology of the Copperhead* () and *Kansas Snake Communities* () as well as drawing on practices and knowledge \__\_ from
-
-but are not limited to them. Judith and Herbert Kohl's *The View from the Oak*, the project documents - particular species relationship - habits of relation - what's personal about science
-
-Autecology sits at the edge between experimental and descriptive practice. It asks - and answers with -
-
-context of relation -
+Working in dialogue with Henry S. Fitch's *Autecology of the Copperhead* (1960) and *Kansas Snake Communities* (1999) and drawing on practices within and beyond scientific knowledge making, *Another Autecology of the Copperhead* charts the nocturnal feeding routines of snakes and follows a particular species relationship into new technical and epistemological ecologies.
