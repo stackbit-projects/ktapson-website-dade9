@@ -25,6 +25,6 @@ layout: page
 
 Working in dialogue with Henry S. Fitch's *Autecology of the Copperhead* (1960) and *Kansas Snake Communities* (1999) and drawing on practices both within and beyond scientific knowledge making, *Another Autecology of the Copperhead* charts nocturnal snake routines in  summer while following a particular species relationship through new technical and epistemological ecologies.
 
-
+![](images/July%2023%202021%20904pm-9a14ccc7.JPG)
 
 ![](images/July%2023%202021%20904pm-514e5f89.JPG)
