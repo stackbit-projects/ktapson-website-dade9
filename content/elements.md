@@ -24,3 +24,5 @@ layout: page
 ### Another Autecology of the Copperhead (2020-)
 
 Working in dialogue with Henry S. Fitch's *Autecology of the Copperhead* (1960) and *Kansas Snake Communities* (1999) and drawing on practices both within and beyond scientific knowledge making, *Another Autecology of the Copperhead* charts nocturnal snake routines while following a particular species relationship through new technical and epistemological ecologies.
+
+![](images/copperheads.jpg)
