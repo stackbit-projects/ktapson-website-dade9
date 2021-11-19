@@ -27,4 +27,3 @@ Working in dialogue with Henry S. Fitch's *Autecology of the Copperhead* (1960) 
 
 <div style='width:10%'>
 ![Copperheads](/images/copperheads.jpg)
-</div>
