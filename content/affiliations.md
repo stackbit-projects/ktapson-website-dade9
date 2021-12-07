@@ -25,6 +25,6 @@ Current affiliations include:
 
 *   [Society for Literature, Science & the Arts](https://litsciarts.org/)
 
-Email:
+Contact:
 
 kat8 \[at] duke \[dot] edu
