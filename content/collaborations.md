@@ -25,7 +25,7 @@ layout: page
 
 *Minecraft Block Party* is a critical digital literacy workshop series and community art project developed during the 2020 school closures as a partnership between the Duke Speculative Sensation Lab / s-1 collective and the Parents of African American Children committee at Pearsontown Elementary School with support from the Durham Public Schools Foundation.
 
-![](images/art.svg)    ![](images/art-logo.svg)  ![](images/minecraft%20chat%20copy.jpg)     
+![](images/art.svg)    ![](images/art-logo.svg)  
 
 ### [Nothing is Possible](https://s-1lab.pubpub.org/nothing-is-possible)
 
