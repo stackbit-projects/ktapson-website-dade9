@@ -33,9 +33,10 @@ sections:
       discourse on experiment in science studies into contact with poetics,
       showing how experimental poetry can be a surprising source for alternative
       concepts of scientific subjectivity. Overlapping my work on *Enduring
-      Experiments*, I co-edited the expansive Coolidge-Mayer correspondence,
-      which extends across three decades. A key portion of the correspondence is
-      forthcoming from University of New Mexico Press (Fall 2022).
+      Experiments*, I co-edited (with Stephanie Anderson) the expansive
+      Coolidge-Mayer correspondence, which extends across three decades. A key
+      portion of the correspondence is forthcoming from University of New Mexico
+      Press (Fall 2022).
   - title: A Cat
     section_id: cat
     type: section_content
