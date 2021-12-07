@@ -37,9 +37,6 @@ sections:
       Coolidge-Mayer correspondence, which extends across three decades. A key
       portion of the correspondence is forthcoming from University of New Mexico
       Press (Fall 2022).
-
-
-      Contact:  kat8 \[at] duke \[dot] edu
   - title: A Cat
     section_id: cat
     type: section_content
