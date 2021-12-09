@@ -16,7 +16,7 @@ sections:
       interests traverse ecopoetics, laboratory science, feminist technoscience,
       histories of scientific instrumentation, and avant-garde art and writing
       associated with practices of research, particularly as they relate to the
-      physical and biological sciences. These interests are directed toward
+      natural sciences. These interests are directed toward
       examining how durational forms of collaboration can support exchanges
       between practices of art and science across scales. In my writing studies
       and public humanities work, I aim to scaffold critical-collaborative
