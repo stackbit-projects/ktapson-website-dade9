@@ -15,10 +15,6 @@ Current affiliations include:
 
 <!---->
 
-*   [Nothing Happening Here](https://nothinghappeninghere.work/)
-
-<!---->
-
 *   [NC Herpetological Society](https://ncherps.org/)
 
 <!---->
