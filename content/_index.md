@@ -24,9 +24,9 @@ sections:
       practice.
 
 
-      My first book project, *Enduring Experiments,* investigates an
-      intersecting trajectory across the poetry of Clark Coolidge and Bernadette
-      Mayer, taking both poets seriously as researchers whose complex ways of
+      My first book project, *Enduring Experiments,* investigates a shared
+      trajectory across the poetry of Clark Coolidge and Bernadette Mayer,
+      taking both poets seriously as researchers whose complex ways of
       interacting with their own laboriously generated poetic milieus challenge
       the limits of existing models for describing postwar poetry’s engagement
       with experimental science. Throughout the book, I bring the discourse on
