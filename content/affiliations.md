@@ -11,7 +11,7 @@ Kristen Tapson is a Scholar in Residence in the Department of Art, Art History a
 
 Current affiliations include:
 
-*   [Speculative Sensation Lab (S-1)](s-1lab.org)
+*   [Speculative Sensation Lab (S-1)](https://s-1lab.org/)
 
 <!---->
 
