@@ -21,7 +21,7 @@ Current affiliations include:
 
 *   [Society for Literature, Science & the Arts](https://litsciarts.org/)
 
-\<!---->
+<!---->
 
 *   [Network for New York School Studies](https://www.nnyss.org/)
 
